@@ -1,1 +1,1 @@
-I am your local kiddo that codes
+# I am your local kiddo that codes in python
