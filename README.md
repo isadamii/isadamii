@@ -5,9 +5,6 @@
 <a href="https://guns.lol/isadami"></a>
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,discord,bots)](https://skillicons.dev)
-
 <br>
 <h2 align="center">Skills </h2>
 <p align="center">
