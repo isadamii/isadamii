@@ -6,6 +6,10 @@
 
 
 ```
+📖 About Me
+
+I code stuff mainly in Python, I like Reverse Engineering/Bypassing stuff, I also like Automations. I own a fairly large Minecraft server (1.7k Discord Members). Yeah uh thats it
+
 📬 Contact Me
 
 - Discord : https://discord.com/users/764937695792463942
