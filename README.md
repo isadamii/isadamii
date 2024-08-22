@@ -5,6 +5,29 @@
 <a href="https://guns.lol/isadami"></a>
 
 
+```
+📬 Contact Me
+
+- Discord : https://discord.com/users/764937695792463942
+
+💻 Coding Expertise
+
+- Languages:
+  - Expert: 
+    - Python
+  - Intermediate:
+    - HTML & CSS
+  - Learning:
+    - GO
+    - Javascript
+
+🛠️ Specialties
+
+- Reverse Engineering
+- Task Automation
+
+```
+
 <br>
 <h2 align="center">Skills </h2>
 <p align="center">
