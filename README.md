@@ -10,8 +10,7 @@
 
 I code stuff mainly in Python.
 I like Reverse Engineering/Bypassing stuff & Automations.
-I own a fairly large Minecraft server (1.7k Discord Members).
-Yeah uh thats kinda it :D
+I own a minecraft server (.gg/dupe)
 
 📬 Contact Me
 
